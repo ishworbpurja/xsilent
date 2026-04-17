@@ -1,17 +1,33 @@
-# xsilent
+# XSilent 🔇
 
-A new Flutter project.
+Smart Silence for Your Meetings
 
-## Getting Started
+## About
+XSilent is a cross-platform Flutter app that automatically 
+switches your device to silent or vibrate mode during 
+scheduled meeting hours.
 
-This project is a starting point for a Flutter application.
+## Features
+- Silent/Vibrate scheduling
+- Global World Clock (8 cities)
+- Multilingual UI (English, Hindi, Nepali)
+- In-app notifications
+- JSON local storage
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+```bash
+flutter run -d edge
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tech Stack
+- Flutter & Dart
+- SharedPreferences
+- intl package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Group 5
+- Ishwor Purja (sm2025043)
+- Pragati paneru (sm20242454)
+
+## Course
+ICT107 — Mobile App and Web Development
+Sydney Metropolitan Institute of Technology 2026
